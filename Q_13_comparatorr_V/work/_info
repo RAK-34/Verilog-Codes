@@ -1,0 +1,143 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_13_comparatorr_V
+vcomp
+Z1 !s110 1771153492
+!i10b 1
+!s100 W:0C@?bDf2[?`>Gcla_PB1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IENjJ<g<LNoT5KGkYJhfaa3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1771152267
+Z5 8comp.v
+Z6 Fcomp.v
+!i122 35
+L0 1 22
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1771153492.000000
+!s107 comp.v|comp_tb.v|
+Z9 !s90 -reportprogress|300|comp_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vcomp2_1
+R1
+!i10b 1
+!s100 1Rl>k9DGBh@`FE;hR]ng<2
+R2
+INfEzkT0eclUDf`4JDWU=:2
+R3
+R0
+R4
+R5
+R6
+!i122 35
+L0 24 12
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 comp.v|comp_tb.v|
+R9
+!i113 1
+R10
+vcomp3_1
+R1
+!i10b 1
+!s100 TNFLRXUHM14Qz4PTiWWZ?0
+R2
+IahBJIb5zf>kCT=Y<9h^A20
+R3
+R0
+R4
+R5
+R6
+!i122 35
+L0 50 13
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vcomp_3_2_1
+R1
+!i10b 1
+!s100 @B4`nl4=f@O8]Q;;[<Z^E3
+R2
+ITLCC]Z2aV_]?``h7N:k<m3
+R3
+R0
+R4
+R5
+R6
+!i122 35
+L0 37 12
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vcomp_n
+R1
+!i10b 1
+!s100 S;eaBbLBI4MXLQm3H@1Yz1
+R2
+IES;^fThD0UMd?hFO2nSR=2
+R3
+R0
+R4
+R5
+R6
+!i122 35
+L0 64 20
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 cdS08JHJAG0d6XnSkK]`@1
+R2
+I>BT75d_O9_2CM?knChgGR2
+R3
+R0
+w1771151175
+8comp_tb.v
+Fcomp_tb.v
+!i122 35
+L0 2 15
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

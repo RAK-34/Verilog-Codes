@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_15_fa_mux_V
+vfa_mux21
+Z1 !s110 1771820224
+!i10b 1
+!s100 JUQWQoTO]^UQi7i7QDn_d1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IE78BHb7[OK<Nm65R[iEhb3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1771171961
+Z5 8fa_mux.v
+Z6 Ffa_mux.v
+!i122 1
+L0 30 13
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1771820224.000000
+!s107 fa_mux.v|fa_mux_tb.v|
+Z9 !s90 -reportprogress|300|fa_mux_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vfa_mux41
+R1
+!i10b 1
+!s100 hkEAAPeCXjzi<EC_gH^^[2
+R2
+I5>ScI0RK]APdTG]e<YURS0
+R3
+R0
+R4
+R5
+R6
+!i122 1
+L0 18 11
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 fa_mux.v|fa_mux_tb.v|
+R9
+!i113 1
+R10
+vfa_mux81
+R1
+!i10b 1
+!s100 a0M_EM3bhXkIi>`VCLEWa2
+R2
+IzY`oeYR_Z<EOBab:icmfn2
+R3
+R0
+R4
+R5
+R6
+!i122 1
+L0 10 7
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vmux
+R1
+!i10b 1
+!s100 0=4ghZ?l_kcB5LhF_cLZ@2
+R2
+IE_SLk1Ool?F17^DF:him=1
+R3
+R0
+R4
+R5
+R6
+!i122 1
+L0 1 8
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 ]R[WWYmgU=H7mQNR>ojS_0
+R2
+ICLX6aVdJBHj9eZnj_C59n0
+R3
+R0
+w1771820083
+8fa_mux_tb.v
+Ffa_mux_tb.v
+!i122 1
+L0 2 13
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

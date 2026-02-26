@@ -1,0 +1,187 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_18_fa_demux_V
+vdemux12
+Z1 !s110 1771406579
+!i10b 1
+!s100 TnW8KI_Rkn^ZXVDImIE_i1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBoX=[f:QK@S^T0ITg3Pl53
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1771406471
+Z5 8fa_demux12.v
+Z6 Ffa_demux12.v
+!i122 15
+L0 1 9
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1771406579.000000
+!s107 fa_demux12.v|fa_demux14.v|fa_demux18.v|fa_demux_tb.v|
+Z9 !s90 -reportprogress|300|fa_demux_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vdemux14
+R1
+!i10b 1
+!s100 gS4B>hVBRU2AM9;cQgAcA0
+R2
+IXH0l8:@iI7]b>4R8C6R7k0
+R3
+R0
+Z11 w1771405474
+Z12 8fa_demux14.v
+Z13 Ffa_demux14.v
+!i122 15
+Z14 L0 1 10
+R7
+r1
+!s85 0
+31
+R8
+Z15 !s107 fa_demux12.v|fa_demux14.v|fa_demux18.v|fa_demux_tb.v|
+R9
+!i113 1
+R10
+vdemux18
+R1
+!i10b 1
+!s100 ?gL9zgZnBOn1:bY2C[?jn1
+R2
+IW1bAEY<clN^_Ya;FgJbc^1
+R3
+R0
+Z16 w1771389930
+Z17 8fa_demux18.v
+Z18 Ffa_demux18.v
+!i122 15
+R14
+R7
+r1
+!s85 0
+31
+R8
+R15
+R9
+!i113 1
+R10
+vfa_demux12
+R1
+!i10b 1
+!s100 l_[[7bA>fUYS8mhTZZSIh0
+R2
+I^^@_IA9M5CB4J=H2]<d8Z1
+R3
+R0
+R4
+R5
+R6
+!i122 15
+L0 11 18
+R7
+r1
+!s85 0
+31
+R8
+R15
+R9
+!i113 1
+R10
+vfa_demux14
+R1
+!i10b 1
+!s100 oXcCaPaJDaMLgA=_2^eID2
+R2
+IF0a;aR2GD4OgFWajE7NS@0
+R3
+R0
+R11
+R12
+R13
+!i122 15
+L0 12 11
+R7
+r1
+!s85 0
+31
+R8
+R15
+R9
+!i113 1
+R10
+vfa_demux18
+R1
+!i10b 1
+!s100 KD7GdKdkbHibznM>YnL>G0
+R2
+IAX?m=T0O8eJFnBJUgh7nQ2
+R3
+R0
+R16
+R17
+R18
+!i122 15
+L0 12 9
+R7
+r1
+!s85 0
+31
+R8
+R15
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 z[mL1fm9KoN6X3CB`GLd`1
+R2
+I<z0fI1AzN>=lQY^ineah`2
+R3
+R0
+w1771406572
+Z19 8fa_demux_tb.v
+Z20 Ffa_demux_tb.v
+!i122 15
+L0 5 17
+R7
+r1
+!s85 0
+31
+R8
+R15
+R9
+!i113 1
+R10
+vtb1
+!s110 1771404830
+!i10b 1
+!s100 fTKM2X5fC7[DZ9l_nkLjL0
+R2
+IT[o7WjbYI>d=z2MaikKlj2
+R3
+R0
+w1771404828
+R19
+R20
+!i122 8
+L0 20 16
+R7
+r1
+!s85 0
+31
+!s108 1771404830.000000
+!s107 fa_demux14.v|fa_demux18.v|fa_demux_tb.v|
+R9
+!i113 1
+R10

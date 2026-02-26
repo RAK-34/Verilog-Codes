@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_11_carry_save_adder_V
+vcsa
+Z1 !s110 1771389400
+!i10b 1
+!s100 AN9[kfmNR^@0^DBjnDze33
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITYKXRC9<WIW7T6i`<^]V`1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1771060097
+8csa.v
+Fcsa.v
+!i122 24
+L0 2 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1771389400.000000
+!s107 fa.v|csa.v|csa_tb.v|
+Z6 !s90 -reportprogress|300|csa_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vfa
+R1
+!i10b 1
+!s100 T=cHZj?__X;iKcTLY1lkC0
+R2
+ImVDB3=M<7eXLgVTmDQ]@42
+R3
+R0
+w1771060078
+8fa.v
+Ffa.v
+!i122 24
+L0 1 3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 fa.v|csa.v|csa_tb.v|
+R6
+!i113 1
+R7
+vtb
+R1
+!i10b 1
+!s100 >]PHMSXeZFhF795^YRRDD2
+R2
+IgAg6Vj@TTDMG;V1HnPm9<1
+R3
+R0
+w1771060229
+8csa_tb.v
+Fcsa_tb.v
+!i122 24
+L0 2 18
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

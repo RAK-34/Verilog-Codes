@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_20_encoder_V
+venc42
+Z1 !s110 1771432386
+!i10b 1
+!s100 DE==;PkfbSEnR`Y@CAg=O0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMRg?;8M6_^Q<^HnKA<_Pm3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1771432382
+Z5 8encoder.v
+Z6 Fencoder.v
+!i122 23
+L0 1 38
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1771432386.000000
+!s107 encoder.v|encoder_tb.v|
+Z9 !s90 -reportprogress|300|encoder_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+venc83
+R1
+!i10b 1
+!s100 MlcegkNGfBQMDG0bXEVJh3
+R2
+IQN8Rkdc0jibcJ7>]XQ9::2
+R3
+R0
+R4
+R5
+R6
+!i122 23
+L0 40 31
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 encoder.v|encoder_tb.v|
+R9
+!i113 1
+R10
+venc83_42
+R1
+!i10b 1
+!s100 :XZ688]^?Q10Z7BKeKB;f0
+R2
+IRLC>C[m:1GAiD1ni<6:;]3
+R3
+R0
+R4
+R5
+R6
+!i122 23
+L0 72 13
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 0XkQHObc3VS`W1eYUiB>12
+R2
+I7P@EJngDBgXU8OdBkNTHE0
+R3
+R0
+w1771415181
+8encoder_tb.v
+Fencoder_tb.v
+!i122 23
+L0 2 16
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

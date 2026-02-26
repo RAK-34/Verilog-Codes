@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_16_demux_V
+vdemux21
+Z1 !s110 1771908053
+!i10b 1
+!s100 nPi4Wle55BXT1NbXJ;EhD1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcY;2jzG]I8Lnz_zz:GVE53
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1771165255
+Z5 8demux.v
+Z6 Fdemux.v
+!i122 0
+L0 1 7
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1771908053.000000
+!s107 demux.v|demux_tb.v|
+Z9 !s90 -reportprogress|300|demux_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vdemux41
+R1
+!i10b 1
+!s100 lCc5ZbLDQFeePRJNJBOc?0
+R2
+IF<ITKUVT2=mbI;b`URh?P2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 9 16
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 demux.v|demux_tb.v|
+R9
+!i113 1
+R10
+vdemux_n
+R1
+!i10b 1
+!s100 AmjcXf@VjXa4X1DI1Zd[M1
+R2
+I30J;Od`DGnX5a^j;ENf<Z3
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 26 11
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 :2b5ahmG03KR]z^AM[FKL2
+R2
+IZ@keAMKE2Qd3]6IznlIPL2
+R3
+R0
+w1771165324
+8demux_tb.v
+Fdemux_tb.v
+!i122 0
+L0 2 16
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
