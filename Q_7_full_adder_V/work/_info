@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/Q_6_full_adder_V
+vfa
+Z0 !s110 1770817901
+!i10b 1
+!s100 Aa8QK2TbScz6EWcohZG3U2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVS_`AJ8H]DK3`zn^2]Ud32
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_7_full_adder_V
+w1770572623
+8fa.v
+Ffa.v
+!i122 11
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1770817901.000000
+!s107 full_adder.v|fa.v|fa_tb.v|
+Z6 !s90 -reportprogress|300|fa_tb.v|+define+DATA|
+!i113 1
+Z7 !s92 +define+DATA
+Z8 tCvgOpt 0
+vn_bit_fa
+R0
+!i10b 1
+!s100 o_Vh4cYg4zj@j>2ncA@L52
+R1
+I=DBod`l;fT:gA^eF]8lH^2
+R2
+R3
+w1770817895
+8full_adder.v
+Ffull_adder.v
+!i122 11
+L0 1 31
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 full_adder.v|fa.v|fa_tb.v|
+R6
+!i113 1
+R7
+R8
+vtb
+R0
+!i10b 1
+!s100 5kla4:oJ_EQUY;KAYEI:Z3
+R1
+IYeoViiHNHl=9a<oHAz1Ej3
+R2
+R3
+w1770571965
+8fa_tb.v
+Ffa_tb.v
+!i122 11
+L0 4 17
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8

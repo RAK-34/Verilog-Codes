@@ -1,0 +1,7 @@
+carry-lookahead adder --> in this design carry-out depends on inputs only, it is independent on previous stage carry-output
+
+ckt drawn based on Ci = Gi + Pi & Ci-1
+
+Gi = A&B         Pi = A^B
+
+
