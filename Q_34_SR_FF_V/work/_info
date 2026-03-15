@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_34_SR_FF_V
+vsr_ff
+Z1 !s110 1773566758
+!i10b 1
+!s100 HIPYf32;[Y=7SO[hdAPXk3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`h;5_<hzD4UWSP9WJN_>M1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1773566751
+8sr_ff.v
+Fsr_ff.v
+!i122 14
+L0 1 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1773566758.000000
+!s107 sr_ff.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 PEkh_o>82Cc987F]KhXil0
+R2
+I;kiDoOz`Ok78bb7eX`j[R0
+R3
+R0
+w1773566723
+8tb.v
+Ftb.v
+!i122 14
+L0 3 22
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 sr_ff.v|tb.v|
+R6
+!i113 1
+R7

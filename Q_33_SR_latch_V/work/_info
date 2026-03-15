@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_33_SR_latch_V
+vsr_lat_nand
+Z1 !s110 1773554346
+!i10b 1
+!s100 ?IKUb_n43c1YYHn>2eBO=3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ih=nF2Pb@XK@zcgIY0VZYn2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1773554342
+Z5 8latch.v
+Z6 Flatch.v
+!i122 7
+L0 11 7
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1773554346.000000
+!s107 latch.v|tb.v|
+Z9 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vsr_latch
+R1
+!i10b 1
+!s100 ;_23VOJ>Q`i2<fn=@ECIo1
+R2
+ImMTcGk:l:9PDV7BEP_:jP1
+R3
+R0
+R4
+R5
+R6
+!i122 7
+L0 2 7
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 latch.v|tb.v|
+R9
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 FMfRd88;i0z5aBK4[]?n43
+R2
+II`G`IEceaOGFF[5Rk@8oO0
+R3
+R0
+w1773554198
+8tb.v
+Ftb.v
+!i122 7
+L0 3 19
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
