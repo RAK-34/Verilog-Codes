@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_30_odd_parity_gen_V
+vodd_parity
+Z1 !s110 1773401843
+!i10b 1
+!s100 D2IV2P1Wk8UT=S1?JY2;b3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ib[=X[I7:ze7W2>ed]JVaG0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1773401555
+8odd_parity_gen.v
+Fodd_parity_gen.v
+!i122 0
+L0 1 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1773401843.000000
+!s107 odd_parity_gen.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 Fi=?H4I3RofkmjBdUd?Fc3
+R2
+In2NfKb7MSD<NGdNMel3B42
+R3
+R0
+w1773401790
+8tb.v
+Ftb.v
+!i122 0
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 odd_parity_gen.v|tb.v|
+R6
+!i113 1
+R7

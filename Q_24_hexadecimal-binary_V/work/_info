@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_24_hexadecimal-binary_V
+vhexdec_bin
+Z1 !s110 1773150113
+!i10b 1
+!s100 8;8k`5DUVH<1<cTOXZ5zE0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISEWU@<imAZnPhW_Tel_191
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1772212105
+8hexdec_bin.v
+Fhexdec_bin.v
+!i122 0
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1773150113.000000
+!s107 hexdec_bin.v|hexdec_bin_tb.v|
+Z6 !s90 -reportprogress|300|hexdec_bin_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 Z5]zgMnJX]lXT3iVG8`k00
+R2
+I_gH_c<5?YYXEfN2kSb<=P0
+R3
+R0
+w1772212366
+8hexdec_bin_tb.v
+Fhexdec_bin_tb.v
+!i122 0
+L0 2 26
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 hexdec_bin.v|hexdec_bin_tb.v|
+R6
+!i113 1
+R7

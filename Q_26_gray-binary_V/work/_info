@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_26_gray-binary_V
+vg_b
+Z1 !s110 1773151784
+!i10b 1
+!s100 [lXngYD8SI<285EoeQS1g1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoIM7NcR`m7W9M8F0iclGf2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1772343662
+8gray_bin.v
+Fgray_bin.v
+!i122 0
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1773151784.000000
+!s107 gray_bin.v|gray_bin_tb.v|
+Z6 !s90 -reportprogress|300|gray_bin_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 VM?0W`8h@EBL0YHn72Xf60
+R2
+I;MVUffAznoFz@;aEPBCMB3
+R3
+R0
+w1772343743
+8gray_bin_tb.v
+Fgray_bin_tb.v
+!i122 0
+L0 2 15
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 gray_bin.v|gray_bin_tb.v|
+R6
+!i113 1
+R7

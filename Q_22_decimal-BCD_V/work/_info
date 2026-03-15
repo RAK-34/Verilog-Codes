@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GOGUL/OneDrive/Desktop/rakesh/linkedin_posts/verilog/Q_22_decimal-BCD_V
+vdec_bcd
+Z1 !s110 1772468967
+!i10b 1
+!s100 YM1HJ5cDN8^C;G]QY:VPR0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IAYG2QnY5JofTAI>?Un`^C0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1772209436
+8dec_bcd.v
+Fdec_bcd.v
+!i122 0
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1772468967.000000
+!s107 dec_bcd.v|dec_bcd_tb.v|
+Z6 !s90 -reportprogress|300|dec_bcd_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 hc2Ubz7Al`3P;Fah7@enE2
+R2
+IX794no?B0=oiMJWY@egd=2
+R3
+R0
+w1772210134
+8dec_bcd_tb.v
+Fdec_bcd_tb.v
+!i122 0
+L0 2 20
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 dec_bcd.v|dec_bcd_tb.v|
+R6
+!i113 1
+R7
